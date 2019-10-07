@@ -9,6 +9,8 @@ tags:
     - portfolio
 ---
 
+**Disclaimer: not my content, just leaving it here temporarily as a reference while I set up this blog**
+
 To celebrate figuring out [how to blog with jupyter notebooks](/posts/2018/03/ipython-notebooks-jekyll), I'm going to go through some tricks I've learned to plot pretty boxplots in Python.
 
 # Boxplots

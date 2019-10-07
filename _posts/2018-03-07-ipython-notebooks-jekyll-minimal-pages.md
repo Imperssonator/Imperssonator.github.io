@@ -7,6 +7,8 @@ tags:
     - jekyll
 ---
 
+**Disclaimer: not my content, just leaving it here temporarily as a reference while I set up this blog**
+
 One of the last parts before my full-fledged transition to github pages from wordpress was figuring out how to post nicely formatted jupyter notebooks.
 This was actually the reason I wanted to switch in the first place, but it turns out it wasn't as straightforward as I'd hoped!
 I think I've found an acceptable, though imperfect, way to do this: here's the general process I've settled on.
